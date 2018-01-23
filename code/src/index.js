@@ -3,8 +3,8 @@
 
 import './scss/main.scss';
 
-/*import {hello, sr} from './js/module';
+import {sr} from './js/module';
+import {hello} from './js/hello';
 
 hello();
 sr();
-*/
