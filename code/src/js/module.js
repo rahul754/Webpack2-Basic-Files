@@ -1,7 +1,5 @@
-
-
 function sr(){
-	console.log("heloo from js module in sr func");
+	console.log("hello from modulejs file ");
 }
 
 export {sr};

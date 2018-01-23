@@ -1,5 +1,5 @@
 function hello() {
-	console.log("hello from js module");
+	console.log("hello from js hello js file");
 }
 
 
